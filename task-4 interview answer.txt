@@ -1,0 +1,18 @@
+1. Iac maeans infrastructure as a code means create infrastuctur using code.
+
+2. terraform work by plugins and providers it maight be cloud aws,azure etc .
+
+3. terraform state file is very critical file in terraform is used for managed terraform infrastructure.
+
+4. plans is used for after write a infrastructure code in main.tf showing the structure will execute and apply is used for    run the main.tf file after plan.
+
+5. Terraform provider is a plugin that allows Terraform to interact with an external system like aws,azure etc and many tools like docker, kuberneties.
+
+6. it means which resource are created or destroy using terraform for infrastructure.
+
+7. mostly terraform will manage automatically secret variables but using these source also AWS Secrets Manager, Azur key vault, hashiCorp Vault, google secret manager.
+
+8. it overcome the time for launch the machine managing the srcipts.
+
+
+  
